@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arunkumar
-- 👀 I’m interested in upcoming new techknowledgy
-- 🌱 I’m currently learning data analyst
-- 📫 How to reach me @arunkumarvpm2000@gmail.com
+- 👀 I’m interested in upcoming new techknowledgys
+- 🌱 I’m currently learning data analyst course
+- 📫 To reach me ping me @arunkumarvpm2000@gmail.com
 - ⚡ Fun fact: iam just a learning kid
 
 <!---
